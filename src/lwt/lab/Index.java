@@ -1,4 +1,4 @@
-package lwt03.lab;
+package lwt.lab;
 
 import java.io.IOException;
 
